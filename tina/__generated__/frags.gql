@@ -1,0 +1,11 @@
+fragment PageParts on Page {
+  __typename
+  title
+  subtitle
+  description
+  weight
+  part
+  rule_number
+  short_title
+  body
+}
